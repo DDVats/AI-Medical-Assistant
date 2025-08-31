@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Large data files
+data/
+
+# Trained models (too large for version control)
+models/
+*.h5
+*.keras
+
+# OS and IDE files
