@@ -1,0 +1,15 @@
+tensorflow
+streamlit
+requests
+werkzeug
+numpy
+wfdb
+neurokit2
+Pillow
+opencv-python
+torch
+torchvision
+torchaudio
+transformers
+timm
+h5py
