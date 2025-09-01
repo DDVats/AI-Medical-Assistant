@@ -7,9 +7,6 @@ medical_ai_assistant/
 venv/
 env/
 
-# Local data and uploads
-ecg_uploads/
-chfdb/
 
 # IDE and OS specific
 .idea/
