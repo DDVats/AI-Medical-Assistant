@@ -6,3 +6,4 @@ data/lung/*.jpg filter=lfs diff=lfs merge=lfs -text
 data/lung/*.jpeg filter=lfs diff=lfs merge=lfs -text
 data/** filter=lfs diff=lfs merge=lfs -text
 *.h5 filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
