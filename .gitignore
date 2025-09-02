@@ -1,12 +1,25 @@
+# Datasets
+data/
+*.csv
+*.dat
+*.h5
+*.zip
+
+# Training artifacts
+checkpoints/
+logs/
+
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 # Environment folders
-medical_ai_assistant/
 venv/
 env/
-
+.venv/
+conda_env/
 
 # IDE and OS specific
 .idea/
