@@ -25,3 +25,6 @@ conda_env/
 .idea/
 .vscode/
 .DS_Store
+chfdb/
+*.npy
+*.dat
